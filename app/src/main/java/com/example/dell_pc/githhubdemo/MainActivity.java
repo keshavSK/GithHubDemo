@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void getData(){
 
-
+        String value2 = "Adding update to githhub";
     }
 }
